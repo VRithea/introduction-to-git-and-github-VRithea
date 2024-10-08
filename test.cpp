@@ -2,5 +2,5 @@
 
 int main(){
     std::cout << "Test";
-    reutrn 0;
+    return 0;
 }
